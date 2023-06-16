@@ -14,6 +14,8 @@
     --blue-text: #002F52;
     --black-text: rgba(0, 0, 0, 0.85);
     --black-secondary: #000000;
+    --gray-footer: #858585;
+    --gray-footer-link: #474646;
     --blue-gradient: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --primary-font: 'Poppins';
     --secondary-font: 'Josefin Sans';
@@ -29,4 +31,10 @@ body {
 .section-divisor {
     height: 16px;
     background-color: var(--white-background);
+}
+
+@media screen and (min-width: 1024px) {
+    .section-divisor {
+        display: none;
+    }
 }

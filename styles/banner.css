@@ -35,3 +35,41 @@
     background: url("../assets/Vector.svg") no-repeat;
     background-position: 2em;
 }
+
+/* Tablets */
+@media screen and (min-width: 1024px) {
+    .banner {
+        padding: 5.25em 14.5em;
+    }
+
+    .banner__titulo {
+        font-size: 36px;
+    }
+
+    .banner__texto {
+        font-size: 16px;
+        padding: 0;
+    }
+
+    .banner__pesquisa {
+        width: 85%;
+        padding: 1.5em;
+    }
+
+    .banner__pesquisa::placeholder {
+        font-size: 16px;
+        background-position: 3.5em center;
+    }
+}
+
+/* Desktop */
+@media screen and (min-width: 1728px) {
+    .banner__pesquisa {
+        width: 46.36%;
+    }
+
+
+    .banner__pesquisa::placeholder {
+        background-position: 7em center;
+    }
+}
