@@ -40,7 +40,7 @@
     padding-left: 2.5em;
 }
 
-/* Tablet */
+/* Tablets */
 @media screen and (min-width: 1024px) {
     .contato {
         display: flex;
@@ -65,5 +65,18 @@
 
     .contato__email::placeholder {
         padding-left: 2.5em;
+    }
+}
+
+/* Desktop */
+@media screen and (min-width: 1728px) {
+    .contato {
+        padding: 4em 29.8125em;
+        justify-content: space-between;
+    }
+
+    .contato__texto {
+        width: 90%;
+        margin: 0.5em 0 0 0;
     }
 }

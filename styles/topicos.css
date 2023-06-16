@@ -48,3 +48,14 @@
         font-size: 24px;
     }
 }
+
+/* Desktop */
+@media screen and (min-width: 1728px) {
+    .topicos {
+        padding: 4em 26em
+    }
+
+    .topicos__titulo {
+        font-size: 32px;
+    }
+}

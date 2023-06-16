@@ -126,3 +126,52 @@
         font-size: 14px;
     }
 }
+
+/* Desktop */
+@media screen and (min-width: 1728px) {
+
+    .carrossel__titulo {
+        font-size: 32px;
+        padding: 1.4em 0 0.8em;
+    }
+
+    .carrossel__desktop {
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-end;
+        padding: 4.625em 10.875em 7.875em;
+    }
+
+    .swiper {
+        width: 40%;
+        margin: 0;
+    }
+
+    .swiper-pagination {
+        margin: 0 0 2.5em;
+    }
+
+    .card {
+        width: 40%;
+        margin: 0;
+    }
+
+    .descricao__titulo {
+        font-size: 32px;
+        line-height: 48px;
+        width: 90%;
+    }
+
+    .descricao__texto {
+        font-size: 16px;
+        width: 70%;
+    }
+
+    .descricao__texto:last-child {
+        width: 80%;
+    }
+
+    .botoes__ancora {
+        padding: 1em 1.5em;
+    }
+}
