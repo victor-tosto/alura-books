@@ -49,7 +49,7 @@
 
 ## 📁 Acesso ao projeto
 
-<p>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura-books/"> "Clicar aqui".</a>🚀</p>
+<p>Para visualizar a versão atual do projeto é só<a href="https://victor-tosto.github.io/alura-books/"> "Clicar aqui".</a>🚀</p>
 
 ## 👨‍💻 Autor
 
