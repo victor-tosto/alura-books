@@ -33,7 +33,7 @@
     color: var(--white-background);
     text-align: center;
     background: url("../assets/Vector.svg") no-repeat;
-    background-position: 2em;
+    background-position: auto center;
 }
 
 /* Tablets */
