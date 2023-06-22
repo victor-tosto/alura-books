@@ -35,7 +35,7 @@
 ## 💻 Projeto
 
 <p>
-  O Alura Books é um site fictício sobre venda de livros sobre programação e áreas da tecnologia. Foi desenvolvido durante a formação Front-End da plataforma Alura
+  O Alura Books é um site fictício de venda de livros sobre programação e áreas da tecnologia. Foi desenvolvido durante a formação Front-End da plataforma Alura
   em conjunto com a Instrutora Monica Hillman, utilizando os conceitos de responsividade com mobile-first, onde fizemos o projeto adaptado para todas as telas
   utilizando media queries: mobile, tablet e desktop.
   
